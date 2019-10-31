@@ -1,0 +1,9 @@
+class Node():
+    def __init__(self, Number=None):
+        self.Number = Number
+
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+        last.next = Node
